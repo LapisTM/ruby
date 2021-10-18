@@ -1,6 +1,5 @@
-# ruby
-Ruby!
-The Lapis Project.
+# Ruby
+### The Lapis Project.
 Ruby is a free, open source bootloader made in NASM Assembly.
 
 ------------
